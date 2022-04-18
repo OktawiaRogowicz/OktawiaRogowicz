@@ -15,20 +15,22 @@ I’m a junior software engineer currently working with <b>Java</b> and <b>SQL</
 
 <code><b>thesis & others</b></code>
 
-1. Web application categorizing hand drawn pictures and shapes using neural network 
-| <a href="https://neural-network-react.herokuapp.com/"><strong>LIVE SITE</strong></a>
+1. 🧠 Web application categorizing hand drawn pictures and shapes using <b>neural network</b>
+| 🎥 <a href="https://neural-network-react.herokuapp.com/"><strong>LIVE SITE</strong></a>
 
-&nbsp; &nbsp; &nbsp; <sub><sup><b>[ JAVASCRIPT || REACT || TENSORFLOW.JS || PYTHON || KERAS || TENSORFLOW ]</b></sup></sub>
+2. 🐤 Portfolio | LIVE SITE (incoming)
+
+3. 🤖 Bot battles | LIVE SITE (incoming)
 
 </br>
 
 <code><b>frontend mentor challenges list:</b></code>
 
-1. :sunny: sunnyside landing page 
-| <a href="https://oktawiarogowicz.github.io/sunnyside-agency/"><strong>LIVE SITE</strong></a>
+1. :sunny: <a href="https://github.com/OktawiaRogowicz/sunnyside-agency/">sunnyside agency landing page </a>
+| 🎥 <a href="https://oktawiarogowicz.github.io/sunnyside-agency/"><strong>LIVE SITE</strong></a>
 
-2. 🗺️ ip address tracker 
-| <a href="https://oktawiarogowicz.github.io/ip-address-tracker/"><strong>LIVE SITE</strong></a>
+2. 🗺️ <a href="https://github.com/OktawiaRogowicz/ip-address-tracker/">ip address tracker </a>
+| 🎥 <a href="https://oktawiarogowicz.github.io/ip-address-tracker/"><strong>LIVE SITE</strong></a>
 
-3. 🖌️ chat app CSS illustration 
-| <a href="https://oktawiarogowicz.github.io/CSS-mobile-app-mockup/"><strong>LIVE SITE</strong></a>
+  3. 🖌️ <a href="https://github.com/OktawiaRogowicz/CSS-mobile-app-mockup/">chat app CSS illustration </a>
+| 🎥 <a href="https://oktawiarogowicz.github.io/CSS-mobile-app-mockup/"><strong>LIVE SITE</strong></a>
