@@ -22,6 +22,8 @@ I’m a junior software engineer currently working with <b>Java</b> and <b>SQL</
 
 3. 🤖 Bot battles | LIVE SITE (incoming)
 
+4. ⏳ Mobile clicker game (incoming)
+
 </br>
 
 <code><b>frontend mentor challenges list:</b></code>
