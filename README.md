@@ -16,7 +16,7 @@ I’m a junior software engineer currently working with <b>Java</b> and <b>SQL</
 <code><b>thesis & others</b></code>
 
 1. 🧠 Web application categorizing hand drawn pictures and shapes using <b>neural network</b>
-| 🎥 <a href="https://neural-network-react.herokuapp.com/"><strong>LIVE SITE</strong></a>
+[<a href="https://github.com/OktawiaRogowicz/neuralNetwork">back-end</a>] [<a href="https://github.com/OktawiaRogowicz/neural-network-front">front-end</a>] | 🎥 <a href="https://neural-network-react.herokuapp.com/"><strong>LIVE SITE</strong></a>
 
 2. 🐤 Portfolio | LIVE SITE (incoming)
 
