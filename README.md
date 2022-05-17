@@ -37,6 +37,5 @@ I’m a junior software engineer currently working with <b>Java</b> and <b>SQL</
   3. 🖌️ <a href="https://github.com/OktawiaRogowicz/CSS-mobile-app-mockup/">chat app CSS illustration </a>
 | 🎥 <a href="https://oktawiarogowicz.github.io/CSS-mobile-app-mockup/"><strong>LIVE SITE</strong></a>
 
-
- 4. 🖌️ <a href="https://github.com/OktawiaRogowicz/rock-paper-scissors-lizard-spock/">rock, paper, scissors, lizard, spock</a>
+ 4. ✂️ <a href="https://github.com/OktawiaRogowicz/rock-paper-scissors-lizard-spock/">rock, paper, scissors, lizard, spock</a>
 | 🎥 <a href="https://oktawiarogowicz.github.io/rock-paper-scissors-lizard-spock/"><strong>LIVE SITE</strong></a>
