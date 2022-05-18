@@ -39,3 +39,16 @@ I’m a junior software engineer currently working with <b>Java</b> and <b>SQL</
 
  4. ✂️ <a href="https://github.com/OktawiaRogowicz/rock-paper-scissors-lizard-spock/">rock, paper, scissors, lizard, spock</a>
 | 🎥 <a href="https://oktawiarogowicz.github.io/rock-paper-scissors-lizard-spock/"><strong>LIVE SITE</strong></a>
+
+<code><b>university</b></code>
+
+1. 🕸️ <a href="https://github.com/OktawiaRogowicz/Neural-networks"> Neural network excercises: preparing my own keras and TensorFlow functions</a>
+
+2. 🧠 CRUD website for a library
+[<a href="https://github.com/OktawiaRogowicz/Spring-practice">back-end</a>] [<a href="https://github.com/OktawiaRogowicz/spring-practice-angular">front-end</a>]
+
+3. 🎮 <a href="https://github.com/OktawiaRogowicz/ASCII-multiplayer-game"> ASCII local multiplayer game made with C</a>
+
+4. 📁 <a href="https://github.com/OktawiaRogowicz/FAT16"> FAT16 reader made in C</a>
+
+...and much more!
