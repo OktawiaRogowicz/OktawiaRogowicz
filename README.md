@@ -2,8 +2,16 @@ Hi! :wave:
 
 I’m a junior software engineer currently working with <b>Java</b> and <b>SQL</b> that touched the topic of front end just during my engineering thesis - and in the moment had a realisation that maybe, maybe it is the thing I would prefer to do profesionally. As a result, since February I am on a mission to study JavaScript by myself to eventually try and become a <code><b>front-end developer</b></code>!
 
+</BR>
+
 <div align="center">
-<sub><sup><b>[ REACT || HTML || CSS ]
+<sub><sup><b>
+  
+  [ JAVASCRIPT || REACT || HTML || CSS ]
+  
+  [ PYTHON || JAVA || C++ || C ]
+  
+  [ DOCKER || SPRING || HIBERNATE || RABBITMQ || KAFKA ] 
 
 [ IN PROGRESS: VUE.JS, NEXT.JS ]</b></sup></sub>
 </div>
