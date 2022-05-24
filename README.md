@@ -48,13 +48,20 @@ I’m a junior software engineer currently working with <b>Java</b> and <b>SQL</
  4. ✂️ <a href="https://github.com/OktawiaRogowicz/rock-paper-scissors-lizard-spock/">rock, paper, scissors, lizard, spock</a>
 | 🎥 <a href="https://oktawiarogowicz.github.io/rock-paper-scissors-lizard-spock/"><strong>LIVE SITE</strong></a>
 
+```diff
+- IN PROGRESS
+```
+
+ 5. ✂️ <a href="https://github.com/OktawiaRogowicz/audiophile-e-commerce/">audiophile e-commerce</a>
+| 🎥 <a href="https://oktawiarogowicz.github.io/audiophile-e-commerce/"><strong>LIVE SITE</strong></a>
+
 </br>
 
 <code><b>university</b></code>
 
 1. 🕸️ <a href="https://github.com/OktawiaRogowicz/Neural-networks"> Neural network excercises: preparing my own keras and TensorFlow functions</a>
 
-2. 📕 CRUD website for a library
+2. 📕 CRUD website for a library made with Angular, Spring and Hibernate
 [<a href="https://github.com/OktawiaRogowicz/Spring-practice">back-end</a>] [<a href="https://github.com/OktawiaRogowicz/spring-practice-angular">front-end</a>]
 
 3. 🎮 <a href="https://github.com/OktawiaRogowicz/ASCII-multiplayer-game"> ASCII local multiplayer game made with C</a>
