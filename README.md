@@ -1,4 +1,4 @@
-I’m a junior frontend developer and a part of <a href="https://www.commerce-ui.com/"><code><b>commerce-ui</b></code></a> team. Welcome! :wave: 
+I’m a junior frontend developer that worked in headless e-commerce for the last six months. Welcome!
 
 </br>
 </br>
@@ -20,3 +20,5 @@ I’m a junior frontend developer and a part of <a href="https://www.commerce-ui
 5. ✂️ <a href="https://github.com/OktawiaRogowicz/rock-paper-scissors-lizard-spock/">rock, paper, scissors, lizard, spock</a>
 | 🎥 <a href="https://oktawiarogowicz.github.io/rock-paper-scissors-lizard-spock/"><strong>LIVE SITE</strong></a>
 
+6. 🎧 <a href="https://github.com/OktawiaRogowicz/portfolio-audiophile">audiophile e-commerce</a>
+| 🎥 <a href="https://audiophile-e-commerce-oktawiarogowicz.netlify.app/"><strong>LIVE SITE</strong></a>
