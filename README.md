@@ -17,7 +17,6 @@ One of two developers who created online store for <a href="https://magaljewelry
 
 <b><code>Selection of my personal projects:</code></b>
 
-<a href="https://www.figma.com/design/mtk26z5ADCG0iIkqxEOKOl/Figma-basics?node-id=1669-162202&t=3eV9utjFpkySaFlK-1">Figma design file</a>
 Currently my personal project aims to be a space for me to put my newly acquired UX/UI skills to use & to refresh knowledge of Sanity and Shopify.
 I've chosen a small, growing brand to try and redesign its online store. I wanted to enhance user experience, reflect the ideas standing behind the brand better and develop a configuration that will allow the site to grow in the future, and yet will be easy to manage by a small team. 
 
