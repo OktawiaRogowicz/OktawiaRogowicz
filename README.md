@@ -14,10 +14,3 @@ Back in 2022, I've worked for an agency preparing top-notch headless e-commerce 
 One of two developers who created online store for <a href="https://magaljewelry.com/">Magal Jewelry</a> from scratch in four months; single-handedly developed another e-commerce project in Framer Web. 
 </br>
 </br>
-
-<b><code>Selection of my personal projects:</code></b>
-
-Currently my personal project aims to be a space for me to put my newly acquired UX/UI skills to use & to refresh knowledge of Sanity and Shopify.
-I've chosen a small, growing brand to try and redesign its online store. I wanted to enhance user experience, reflect the ideas standing behind the brand better and develop a configuration that will allow the site to grow in the future, and yet will be easy to manage by a small team. 
-
-You can view my progress <a href="https://github.com/OktawiaRogowicz/store-redesign">here</a>, although it's still a job in progress. In the future, the website will be hosted on Github pages.
